@@ -7,6 +7,19 @@ My name is Daniil, I'm a frontend developer
 - 📫 Contact email: danqkislev@yandex.ru
 - 💬 Telegram: @danchik06
 
+- 🛠 My stack:
+!Angular
+!TypeScript
+!Redux
+!CSS3
+!HTML5
+!REST API
+!SCSS
+!Webpack
+!Express.js
+!Node.js
+!MySQL
+
 
 
 <!--
