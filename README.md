@@ -8,17 +8,8 @@ My name is Daniil, I'm a frontend developer
 - 💬 Telegram: @danchik06
 
 - 🛠 My stack:
-!Angular
-!TypeScript
-!Redux
-!CSS3
-!HTML5
-!REST API
-!SCSS
-!Webpack
-!Express.js
-!Node.js
-!MySQL
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+
 
 
 
