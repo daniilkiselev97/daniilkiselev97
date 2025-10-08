@@ -1,52 +1,97 @@
-# Привет 👋
+<h1 align="center">Привет 👋</h1>
+<p align="center">
+  Меня зовут <b>Даниил</b> — я <b>фронтенд-разработчик</b>.
+</p>
 
-Меня зовут **Даниил**, я фронтенд-разработчик.
+<hr>
 
----
+<h2>💬 Обо мне</h2>
 
-## 💬 Обо мне
+<p>
+Я фронтенд-разработчик, специализирующийся на создании <b>структурированных</b>, <b>надёжных</b> и <b>удобных интерфейсов</b>.<br>
+Окончил 🎓 <b>Школу разработки интерфейсов Яндекса</b>, где укрепил навыки современных фронтенд-технологий и принципов чистой архитектуры.
+</p>
 
-Я фронтенд-разработчик, специализирующийся на создании структурированных, надёжных и удобных интерфейсов.  
-Окончил **Школу разработки интерфейсов Яндекса**, где углубил свои знания современных фронтенд-технологий и принципов чистой архитектуры.
+<p>
+До этого получил диплом инженера ⚙️, что сформировало мой аналитический склад ума и внимание к деталям.<br>
+Последние <b>2,5 года</b> я работал в
+</p>
 
-До этого я получил диплом инженера, который сформировал мой аналитический склад ума и внимание к деталям.  
-Последние 2,5 года я работал в  
-<div style="text-align: center;">
-<a href="https://www.digitalleague.ru" target="_blank" rel="noopener noreferrer" style="display:inline-flex; align-items:center; text-decoration:none; color:inherit;">
-  <span>Лига Цифровой Экономики</span>
-  
-</a>
-<img src="https://habrastorage.org/getpro/moikrug/uploads/company/100/006/110/9/logo/medium_4b1847597971937b79d3dca60344cd69.jpeg" 
-       width="24" height="24" 
-       alt="Лига Цифровой Экономики" 
-       style="margin-left:6px; vertical-align:middle;">
-</div>
+<!-- ПЕРВАЯ ССЫЛКА С ЛОГО СПРАВА -->
 
-Там я участвовал в разработке веб-приложений корпоративного уровня и внутренних инструментов для крупномасштабных бизнес-процессов.
+<p>
+  <a href="https://www.digitalleague.ru" target="_blank" rel="noopener noreferrer"
+     style="text-decoration: none; color: inherit; vertical-align: middle;">
+    <b>Лига Цифровой Экономики</b>
+    &nbsp;<sub><img src="https://habrastorage.org/getpro/moikrug/uploads/company/100/006/110/9/logo/medium_4b1847597971937b79d3dca60344cd69.jpeg"
+             width="24" height="24" style="vertical-align: middle;" alt="Лига Цифровой Экономики" /><sub>
+  </a>
+</p>
 
-Я в основном работаю с **Angular** и **React**, создавая масштабируемые решения, повторно используемые компоненты пользовательского интерфейса и хорошо структурированные кодовые базы.  
-Меня интересуют **шаблоны пользовательского интерфейса**, **архитектура фронтенда** и **оптимизация производительности**, и я всегда стремлюсь к балансу эстетики и логики в каждом проекте.
 
----
 
-## 🛠 Мой стек
-<div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="48" height="48"/>
-</div>
 
----
 
-## 📫 Контакты
-- ✉️ **Электронная почта:** [danqkislev@yandex.ru](mailto:danqkislev@yandex.ru)  
-- 💬 **Телеграм:** [@danchik06](https://t.me/danchik06)
+<p>
+Там я участвовал в разработке <b>веб-приложений корпоративного уровня</b> и <b>внутренних инструментов</b> для сложных бизнес-процессов.
+</p>
 
----
+<p>
+Я работаю с <b>Angular</b> , создавая:
+</p>
+<ul>
+  <li>🔹 масштабируемые и модульные приложения на Angular</li>
+  <li>🔹 переиспользуемые UI-компоненты с использованием Angular Components и Directives</li>
+  <li>🔹 чистую и хорошо структурированную кодовую базу с соблюдением best practices</li>
+  <li>🔹 птимизацию производительности с использованием lazy loading и ChangeDetectionStrategy</li>
+  <li>🔹 интеграцию с REST API и WebSocket для динамических приложений</li>
+</ul>
 
-<!--
-**daniilkiselev97/daniilkiselev97** — это ✨ _особый_ ✨ репозиторий, потому что его `README.md` отображается на твоем профиле GitHub.
--->
+<p>
+Меня вдохновляют <b>шаблоны пользовательского интерфейса</b>, <b>архитектура фронтенда</b> и <b>оптимизация производительности</b>.<br>
+Я всегда стремлюсь к балансу 🎨 <i>эстетики</i> и ⚙️ <i>логики</i> в каждом проекте.
+</p>
+
+<hr>
+
+<!-- ВТОРАЯ ССЫЛКА С ЛОГО СПРАВА ПО ЦЕНТРУ -->
+<p align="center">
+  <a href="https://www.digitalleague.ru" target="_blank" rel="noopener noreferrer"
+     style="text-decoration: none; color: inherit; vertical-align: middle;">
+    <b>Лига Цифровой Экономики</b>
+    &nbsp;<sub><img src="https://habrastorage.org/getpro/moikrug/uploads/company/100/006/110/9/logo/medium_4b1847597971937b79d3dca60344cd69.jpeg"
+             width="24" height="24" style="vertical-align: middle;" alt="Лига Цифровой Экономики" /><sub>
+  </a>
+</p>
+
+<hr>
+
+<h2>🛠 Мой стек</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</p>
+
+<hr>
+
+<h2>📫 Контакты</h2>
+<ul>
+  <li>✉️ <b>Почта:</b> <a href="mailto:danqkislev@yandex.ru">danqkislev@yandex.ru</a></li>
+  <li>💬 <b>Телеграм:</b> <a href="https://t.me/danchik06">@danchik06</a></li>
+</ul>
+
+<hr>
+
+<p align="center">
+  <i>💡 "Хороший интерфейс — это тот, который не замечаешь, потому что он работает идеально."</i>
+</p>
