@@ -86,8 +86,8 @@
 
 <h2>📫 Контакты</h2>
 <ul>
-  <li>✉️ <b>Почта:</b> <a href="mailto:danqkislev@yandex.ru">danqkislev@yandex.ru</a></li>
-  <li>💬 <b>Телеграм:</b> <a href="https://t.me/danchik06">@danchik06</a></li>
+  <li>✉️ <b>Почта:</b> <a href="mailto:danqkislev@yandex.ru">danqkiselev@yandex.ru</a></li>
+  <li>💬 <b>Телеграм:</b> <a href="https://t.me/danekk97">@danekk97</a></li>
 </ul>
 
 <hr>
